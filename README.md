@@ -1,33 +1,22 @@
 <div align="center">
-
-# 👋 Hi, I'm Maryam Soleimani
-
-### 💻 Software Engineering Graduate | Clean Code Advocate | Lifelong Learner
-
+👋 Hi, I'm Maryam Soleimani
+💻 Software Engineering Graduate | Clean Code Advocate | Lifelong Learner
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Learn+more%2C+day+by+day+%F0%9F%8C%B1;Clean+code%2C+clear+mind+%E2%9C%A8;Studying+design+patterns+%26+principles+%F0%9F%A7%A0;Writing+code+that+future+me+will+thank+me+for+%F0%9F%92%9A" alt="Typing SVG" />
-
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:maryamsoleimanii2003@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MaryammSoleimani)
+https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
 
 </div>
+🌱 Learn More, Day by Day
+"The more I learn, the more I realize how much I don't know." — Albert Einstein
 
----
+I believe growth happens in small, consistent steps. Every commit, every bug fixed, every new concept — it all adds up. This profile is my learning journal as much as it is a showcase of who I'm becoming.
 
-## 🌱 Learn More, Day by Day
-
-> *"The more I learn, the more I realize how much I don't know."* — Albert Einstein
-
-I believe growth happens in small, consistent steps. Every commit, every bug fixed, 
-every new concept — it all adds up. This profile is my **learning journal** as much 
-as it is a showcase of who I'm becoming.
-
-```python
+python
 while alive:
     learn()
     reflect()
     improve()
     repeat()
-
 🙋‍♀️ About Me
 🎓 Software Engineering graduate from University of Zanjan
 
@@ -64,4 +53,4 @@ while alive:
 I'm always happy to connect, chat about code, or learn something new together.
 
 <p align="center"> <a href="mailto:maryamsoleimanii2003@gmail.com"> <img src="https://img.shields.io/badge/Say_Hi-D14836?style=for-the-badge&logo=gmail&logoColor=white" /> </a> <a href="https://github.com/MaryammSoleimani"> <img src="https://img.shields.io/badge/Follow-181717?style=for-the-badge&logo=github&logoColor=white" /> </a> </p>
-<p align="center"> <strong>⭐ Thanks for stopping by — feel free to drop a follow!</strong> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=MaryammSoleimani&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" /> </p><p align="center"> <em>"Simplicity is the soul of efficiency." — Austin Freeman</em> </p> ```
+<p align="center"> <strong>⭐ Thanks for stopping by — feel free to drop a follow!</strong> </p><p align="center"> <img src="https://komarev.com/ghpvc/?username=MaryammSoleimani&label=Profile%20Views&color=2E9EF7&style=flat" alt="Profile views" /> </p><p align="center"> <em>"Simplicity is the soul of efficiency." — Austin Freeman</em> </p>
